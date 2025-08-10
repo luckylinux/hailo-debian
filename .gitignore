@@ -1,0 +1,9 @@
+# Ignore build Folder
+build/
+build/*
+build/**
+
+# Ignore firmare Folder
+firmware/
+firmware/*
+firmware/**
