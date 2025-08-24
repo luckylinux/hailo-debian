@@ -8,6 +8,18 @@ git clone https://github.com/luckylinux/hailo-debian.git
 ```
  
 # Requirements
+## Install CMAKE
+On Debian/Proxmox VE:
+```
+apt-get install cmake
+```
+
+## Install DKMS
+On Debian/Proxmox VE:
+```
+apt-get install dkms
+```
+
 ## Install Kernel Headers
 Vanilla Debian (**NOT** Proxmox VE) - Adjust for your relevant Architecture:
 ```
